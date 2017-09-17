@@ -3,11 +3,11 @@ const {RippleAPI} = require('ripple-lib'),
         server: 'wss://s2.ripple.com'
       }),
       instructions = {maxLedgerVersionOffset: 5},
-      AddressA = '' // Anadir Direccion Origen,
-      AddressB = '' // Anadir Direccion Destino,
-      DestinationTagB = 0 // Anadir Destination Tag,
-      AddressAsecret = '' // Anadir Secret,
-      cantidadPago = '1' // XRP,
+      AddressA = '', // Anadir Direccion Origen,
+      AddressB = '', // Anadir Direccion Destino,
+      DestinationTagB = 0, // Anadir Destination Tag,
+      AddressAsecret = '', // Anadir Secret,
+      cantidadPago = '1', // XRP,
       payment = {
         source: {
           address: AddressA,
