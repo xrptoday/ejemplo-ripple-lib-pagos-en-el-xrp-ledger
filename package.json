@@ -1,6 +1,6 @@
 {
-  "name": "mejemplo-ripple-lib-pagos-en-el-xrp-ledger",
-  "version": "0.0.1",
+  "name": "ejemplo-ripple-lib-pagos-en-el-xrp-ledger",
+  "version": "0.0.2",
   "description": "Código de ejemplo para ilustrar cómo se pueden procesar pagos en el XRP Ledger con la ayuda de ripple-lib.",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elmurci/ejemplo-ripple-lib-pagos-en-el-xrp-ledger.git"
+    "url": "https://github.com/xrptoday/ejemplo-ripple-lib-pagos-en-el-xrp-ledger.git"
   },
-  "author": "Javi Romero",
+  "author": "xrp-coder",
   "license": "ISC",
   "dependencies": {
     "ripple-lib": "^0.17.7"
